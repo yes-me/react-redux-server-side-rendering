@@ -1,0 +1,10 @@
+.dock-video {
+    bottom: 0;
+    right: 15px;
+    position: fixed;
+}
+.dock-video-content {
+    background: red;
+    height: 231px;
+    width: 430px;
+}

@@ -1,0 +1,51 @@
+body {
+  padding: 0 35px;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  padding: 0;
+  margin: 0;
+}
+.content-section {
+  width: 100%;
+}
+.main {
+  position: relative;
+  top: 80px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-bottom: 45px;
+}
+.home {
+  display: flex;
+}
+figure {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #2297D1;
+  text-decoration: none;
+  cursor: pointer;
+}
+footer li > a {
+  color: #fff;
+  opacity: 0.8;
+}
+.col2-left {
+  padding: 0 30px 80px 0;
+  width: 40%;
+}
+
+.col2-left, 
+.col2-right {
+  padding-bottom: 100px;
+}
+ul {
+  list-style: none;
+}
+
